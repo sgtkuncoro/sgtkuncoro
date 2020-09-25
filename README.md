@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<p align="center">
+<p align="left">
   I am Sigit, working as a Front End developer, passionate to write code with Javascript and have professional experience working with Node.js, PHP, HTML, CSS, React, react-redux, JQuery, GraphQL, Unit-testing and also have experience working with relational and spatial databases
 </p>
-<hr>
 </br>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=sgtkuncoro&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="sgtkuncoro"  />  | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgtkuncoro&layout=compact&theme=default&langs_count=10&hide=tsql,css" alt="sgtkuncoro"  />  |
@@ -11,7 +10,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
 <a href="https://github.com/sgtkuncoro?tab=followers"><img src="https://img.shields.io/github/followers/sgtkuncoro.svg?style=social&label=Follow&maxAge=z"></a>
 <a href="https://github.com/sgtkuncoro"><img src="https://komarev.com/ghpvc/?username=sgtkuncoro" alt="sgtkuncoro"/></a>
 </div>
