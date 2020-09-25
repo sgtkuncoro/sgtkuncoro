@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+<p align="center">
+  I am Sigit, working as a Front End developer, passionate to write code with Javascript and have professional experience working with Node.js, PHP, HTML, CSS, React, react-redux, JQuery, GraphQL, Unit-testing and also have experience working with relational and spatial databases
+</p>
+<hr>
+</br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sgtkuncoro&show_icons=true&theme=vue&include_all_commits=true" alt="sgtkuncoro" />
+</br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgtkuncoro&layout=compact&theme=vue&langs_count=10&hide=tsql,css" alt="sgtkuncoro" />
+<br/>
+
+<div align="center">
+<a href="https://github.com/sgtkuncoro?tab=followers"><img src="https://img.shields.io/github/followers/sgtkuncoro.svg?style=social&label=Follow&maxAge=z"></a>
+<a href="https://github.com/sgtkuncoro"><img src="https://komarev.com/ghpvc/?username=sgtkuncoro" alt="sgtkuncoro"/></a>
+</div>
+
+
 <!--
 **sgtkuncoro/sgtkuncoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +31,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=sgtkuncoro&count_private=true)
