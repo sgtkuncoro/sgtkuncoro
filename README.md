@@ -7,9 +7,11 @@
 </br>
 
 <div align="center">
-![Sigit's github stats](https://github-readme-stats.vercel.app/api?username=sgtkuncoro&show_icons=true&theme=default&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgtkuncoro&layout=compact&theme=default&langs_count=10&hide=tsql,css)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sgtkuncoro&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="sgtkuncoro"  />
+<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgtkuncoro&layout=compact&theme=default&langs_count=10&hide=tsql,css" alt="sgtkuncoro"  />
 </div>
+
 <br/>
 
 <div align="center">
