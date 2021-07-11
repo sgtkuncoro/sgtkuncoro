@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 <p align="left">
-  I am Sigit, working as a Front End developer, passionate to write code with Javascript and have professional experience working with Node.js, PHP, HTML, CSS, React, react-redux, JQuery, GraphQL, Unit-testing and also have experience working with relational and spatial databases
+I am Sigit, working as Web Developer, enjoy to write code with Javascript/Typescript and Cofee ☕.
+
+Experienced working with: React, HTML/CSS, Vue, Next, NodeJS, NestJs, Redux, GraphQL, Unit Test, MySQL, Docker, CI/CD .... 👨‍💻
+Passionate to learn about new tech and currently, I Am learning about software architecture and best practices.
 </p>
 </br>
 
