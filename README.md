@@ -4,7 +4,7 @@
 I am Sigit, working as Web Developer, enjoy to write code with Javascript/Typescript and Cofee ☕.
 
 Experienced working with: React, HTML/CSS, Vue, Next, NodeJS, NestJs, Redux, GraphQL, Unit Test, MySQL, Docker, CI/CD .... 👨‍💻
-Passionate to learn about new tech and currently, I Am learning about software architecture and best practices.
+Passionate to learn about new tech.
 </p>
 </br>
 
