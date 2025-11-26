@@ -1,17 +1,11 @@
 ### Hi there 👋
 
 <p align="left">
-I am Sigit, working as Web Developer, enjoy to write code with Javascript/Typescript and Cofee ☕.
+I'm Sigit Kuncoro, a Full-Stack Engineer with a passion for building robust and intuitive web solutions. With extensive experience across the stack, I develop and manage scalable applications using modern technologies like React, Vue, and Node.js, alongside various SQL and NoSQL databases. I thrive in collaborative, cross-functional environments, and I am dedicated to delivering exceptional and innovative products.
 
-Experienced working with: React, HTML/CSS, Vue, Next, NodeJS, NestJs, Redux, GraphQL, Unit Test, MySQL, Docker, CI/CD .... 👨‍💻
-Passionate to learn about new tech.
+Currently, I am enthusiastically exploring and experimenting with the implementation of AI and Large Language  Models (LLMs), focusing on their practical applications and real-world capabilities.
 </p>
 </br>
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sgtkuncoro&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="sgtkuncoro"  />  | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgtkuncoro&layout=compact&theme=default&langs_count=10&hide=tsql,css" alt="sgtkuncoro"  />  |
-| ------------- | ------------- |
-
-<br/>
 
 <div align="left">
 <a href="https://github.com/sgtkuncoro?tab=followers"><img src="https://img.shields.io/github/followers/sgtkuncoro.svg?style=social&label=Follow&maxAge=z"></a>
