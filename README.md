@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="left">
-I'm Sigit Kuncoro, a Web Development Engineer with a passion for building robust and intuitive web solutions. With extensive experience across the stack, I develop and manage scalable applications using modern technologies like React, Vue, and Node.js, alongside various SQL and NoSQL databases. I thrive in collaborative, cross-functional environments, and I am dedicated to delivering exceptional and innovative products.
+I'm Sigit, a Web Development Engineer with a passion for building robust and intuitive web solutions. With extensive experience across the stack, I develop and manage scalable applications using modern technologies like React, Vue, and Node.js, alongside various SQL and NoSQL databases. I thrive in collaborative, cross-functional environments, and I am dedicated to delivering exceptional and innovative products.
 
 Currently, I am enthusiastically exploring and experimenting with the implementation of AI and Large Language  Models (LLMs), focusing on their practical applications and real-world capabilities.
 </p>
